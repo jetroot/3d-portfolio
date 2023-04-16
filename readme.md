@@ -43,5 +43,6 @@ visit http://127.0.0.1:5173/
 
 4. Online Gltf editor: https://www.gltfeditor.com/
 
+5. Svg Icons: https://www.iconshock.com/svg-icons/
 
 Give it a star ⭐ Enjoy !
