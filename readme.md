@@ -6,11 +6,11 @@
 ![alt text](./public/screenshots/1.png)
 2. About me
 ![alt text](./public/screenshots/2.png)
-2. Work Experience
+3. Work Experience
 ![alt text](./public/screenshots/3.png)
-2. My Projects
+4. My Projects
 ![alt text](./public/screenshots/4.png)
-2. Contact me
+5. Contact me
 ![alt text](./public/screenshots/5.png)
 
 
